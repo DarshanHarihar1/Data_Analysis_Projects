@@ -1,1 +1,1 @@
-# Data_Analysis_Projects
+# Stock_Analysis(EDA)
