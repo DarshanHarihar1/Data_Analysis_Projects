@@ -1,1 +1,1 @@
-# Stock_Analysis(EDA)
+# Stock_Analysis_EDA
